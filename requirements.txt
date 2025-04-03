@@ -1,0 +1,5 @@
+SpeechRecognition==3.14.2
+transformers==4.50.3
+sentencepiece==0.2.0
+torch==2.6.0
+protobuf==6.30.2
