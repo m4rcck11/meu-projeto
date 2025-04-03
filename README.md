@@ -11,3 +11,12 @@ Todo o processo é feito por etapas, então há necessidade de rodar individualm
 - É imprescindível CONVERTER o áudio para .wav, já que é o melhor formato para IA.
 - O vídeo e o áudio serão salvos na pasta downloads, mas você pode mudar no arquivo.
 - O modelo é "recogna-nlp/ptt5-base-summ-xlsum"
+
+
+# Pacotes necessários
+- SpeechRecognition (reconhecimento de voz/transcrição)
+- transformers (huggingface)
+- sentencepiece (completementar huggingface)
+- torch (necessário para a llm)
+- protobuf (necessário para a llm)
+- pyaudio (opcional, para captura de áudio ao vivo)
