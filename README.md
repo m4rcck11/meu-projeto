@@ -13,6 +13,9 @@ Todo o processo é feito por etapas, então há necessidade de rodar individualm
 
 
 # Pacotes necessários
+
+Mais detalhes no requirements.
+
 - SpeechRecognition (reconhecimento de voz/transcrição)
 - transformers (huggingface)
 - sentencepiece (completementar huggingface)
